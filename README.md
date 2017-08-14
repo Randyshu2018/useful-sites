@@ -6,3 +6,8 @@
 ### https://ethereum.github.io/go-ethereum/install/ Installing Go Ethereum
 
 ### https://github.com/ethereum/go-ethereum/wiki ethereum.gitbooks
+
+
+## fabric
+### http://www.cnblogs.com/studyzy/p/7237287.html multi-node deploymengt
+
