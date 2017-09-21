@@ -9,7 +9,7 @@
 
 
 ## fabric
-### http://www.cnblogs.com/studyzy/p/7237287.html multi-node deploymengt
+### http://www.cnblogs.com/studyzy/p/7237287.html multi-machine deployment
 
 
 ## nodejs
