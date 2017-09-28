@@ -15,3 +15,7 @@
 ## nodejs
 ### https://github.com/i5ting/nodejs-fullstack nodejs-fullstack
 
+## tools 
+### https://code.visualstudio.com/Download visual studio code
+### http://i5ting.github.io/vsc/ visual studio code operation manual
+
