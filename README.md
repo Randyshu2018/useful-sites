@@ -2,10 +2,10 @@
 
 >  Collection of best resources for blockChain development
 
-## Contents
-- [比特币](#BitCoin)
-- [以太坊](#Ethereum)
-- [Hyperledger](#Hyperledger)
+## Contents <!--此处锚点必须是小写-->
+- [比特币](#bitCoin)
+- [以太坊](#ethereum)
+- [Hyperledger](#hyperledger)
 
 ## Ethereum
 - [官方网站](https://www.ethereum.org/) 
